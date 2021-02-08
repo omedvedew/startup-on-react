@@ -7,8 +7,10 @@ import AboutUs from './AboutUs/AboutUs';
 import Blog from './Blog/Blog';
 import Clients from './Clients/Clients';
 import Cover from './Cover/Cover';
+import Footer from './Footer/Footer';
 import Header from './Header/Header';
 import Services from './Services/Services';
+import StayInTouch from './StayInTouch/StayInTouch';
 import Works from './Works/Works';
 import WorksFeedback from './WorksFeedback/WorksFeedback';
 
@@ -23,7 +25,8 @@ const App = () => {
       <WorksFeedback/>
       <Blog/>
       <Clients/>
-      <h1>Hello, Motherfucker</h1>  
+      <StayInTouch/>
+      <Footer/>  
     </>
   )
 }
