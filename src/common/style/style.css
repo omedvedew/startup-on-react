@@ -519,6 +519,9 @@ body {
   margin-bottom: 70px;
   text-align: center;
 }
+.works-container .container-text a {
+  color: #555555;
+}
 .works-container .container-text {
   display: grid;
   grid-template-rows: auto;
