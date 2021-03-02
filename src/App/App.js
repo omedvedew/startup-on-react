@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link, Route } from 'react-router-dom';
 
 import '../common/style/reset.css';
 import '../common/style/style.css';

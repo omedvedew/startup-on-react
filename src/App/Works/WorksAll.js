@@ -18,6 +18,7 @@ const WorksAll = () => {
                                 title={title}
                                 image={image}
                                 category={category}
+                                id={id}
                             />
                         </div>
                     )

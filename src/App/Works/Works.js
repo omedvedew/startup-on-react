@@ -2,7 +2,7 @@ import React from 'react';
 import { Link, Route } from 'react-router-dom';
 import WorksAll from './WorksAll';
 import WorksFiltered from './WorksFiltered';
-
+import WorksPage from './WorksPage';
 const Works = () => {
 
     function changeColor() {
@@ -66,6 +66,11 @@ const Works = () => {
                 />
 
             </div>
+
+            <Route
+                path='/work/:id'
+                component={WorksPage}
+            />
 
         </div>
     )

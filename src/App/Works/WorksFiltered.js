@@ -18,6 +18,7 @@ const WorksFiltered = (filter) => {
                                 title={title}
                                 image={image}
                                 category={category}
+                                id={id}
                             />
                         </div>
                     )
