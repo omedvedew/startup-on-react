@@ -5,7 +5,7 @@ import sliderItems from './SliderItem/sliderItems.js';
 
 const AboutUs = () => {
     return (
-        <div className="about-us-container" id="about-a">
+        <div className="about-us-container" id="about-a" name="about">
             <div className="container-title">ABOUT US</div>
             <div className="container-dashes"></div>
             <p className="container-text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr amet</p>

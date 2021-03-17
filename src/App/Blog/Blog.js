@@ -4,7 +4,7 @@ import BlogAll from './BlogAll';
 
 const Blog = () => {
     return (
-        <div className="blog-container" id="blog-a">
+        <div className="blog-container" id="blog-a" name='blog'>
             <div className="container-title">RECENT BLOG POSTS</div>
             <div className="container-dashes"></div>
             <p className="container-text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr amet</p>

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Services = () => {
     return (
-        <div className="services-container" id="services-a">
+        <div className="services-container" id="services-a" name="services">
             <div className="container-title">SERVICES</div>
             <div className="container-dashes"></div>
             <p className="container-text">We offer ipsum dolor sit amet, consetetur sadipscing elitr amet</p>

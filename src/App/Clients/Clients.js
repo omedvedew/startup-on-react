@@ -5,7 +5,7 @@ import QuotationSlide from './QuotationSlide';
 
 const Clients = () => {
     return (
-        <div className="clients-container" id="clients-a">
+        <div className="clients-container" id="clients-a" name="clients">
             <div className="clients-items-container">
                 <div className="clients-item c-i-1"></div>
                 <div className="clients-item c-i-2"></div>

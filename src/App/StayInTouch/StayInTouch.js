@@ -2,7 +2,7 @@ import React from 'react'
 
 const StayInTouch = () => {
     return (
-        <div className="contacts-container" id="contacts-a">
+        <div className="contacts-container" id="contacts-a" name="contacts">
             <div className="container-title">GET IN TOUCH</div>
             <div className="container-dashes"></div>
             <div className="container-text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr amet</div>

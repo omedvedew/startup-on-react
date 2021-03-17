@@ -20,7 +20,7 @@ const Works = () => {
     })
 
     return (
-        <div className="works-container" id="works-a">
+        <div className="works-container" id="works-a" name="works">
             <div className="container-title">LATEST WORKS</div>
             <div className="container-dashes"></div>
             <div className="container-text">
